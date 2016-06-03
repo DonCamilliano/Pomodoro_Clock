@@ -1,0 +1,84 @@
+body {
+  background-color: #404040;
+  color: white;
+  font-family: 'Lato', sans-serif;
+}
+
+.butt {
+  display: block;
+  font-size: 30px;
+  margin: 0px auto;
+  width: 50%;
+}
+
+.rob {
+  position: relative;
+  top: 0px;
+  margin: 0px auto;
+  text-align: center;
+}
+
+#sessionText {
+  display: block;
+  margin: 0 auto;
+}
+
+#sessionplus {
+  float: left;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#sessionTimer {
+  float: left;
+  padding: 5px;
+}
+
+#sessionminus {
+  float: left;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.rob {
+  width: 35%;
+  position: relative;
+  bottom: 82px;
+}
+
+.top {
+  display: inline-block;
+  margin: 0 50px;
+  width: 60%;
+}
+
+.circle {
+  height: 400px;
+  width: 400px;
+  border-radius: 200px;
+  border: 5px solid yellow;
+  cursor: pointer;
+  margin: 0px auto;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 130px;
+  font-size: 100px;
+} 
+
+#text {
+  text-align: center;
+  position: relative;
+  top: 50px;
+  font-size: 70px;
+}
+
+#btn {
+  display: block;
+  width: 10%;
+  font-size: 50px;
+  cursor: pointer;
+  margin: 40px auto;
+}
